@@ -1,0 +1,26 @@
+.headerMain {
+   width: 100%;
+    background-color: lightcyan;
+}
+
+.col {
+   /* border: 1px solid red; */
+   display: inline-block;
+}
+
+.col1 {
+   width: 15%;
+}
+
+.col2 {
+   width: 68%;
+}
+
+.col3 {
+   width: 15%;
+}
+
+
+.logo {
+   width: 100px;
+}
